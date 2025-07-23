@@ -1,4 +1,5 @@
-package week01;
+package week01.day_0721;
+
 
 import java.io.*;
 import java.util.*;
