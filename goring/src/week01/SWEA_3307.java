@@ -24,7 +24,7 @@ public class SWEA_3307 {
 						dp[j] = Math.max(dp[i]+1, dp[j]);
 					}
 				}
-			}
+			}	
 			
 			int answer = 0;
 			for(int i=0; i<N; i++) {
