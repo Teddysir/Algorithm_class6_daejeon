@@ -50,4 +50,3 @@ public class SWEA_3307_binarySearch {
 		}
 		System.out.println(sb);
 	}
-}
